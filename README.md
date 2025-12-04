@@ -7,21 +7,23 @@ I build websites and applications. I love coding and creating new projects.
 
 ### 🛠️ Languages and Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,nodejs,mongodb,mysql,linux&theme=dark" />
+  </a>
 </p>
 
 ---
 
 ### 📫 Contact Me
 * **Email:** [aliesmaeiliofficialweb@gmail.com]
+<p align="left">
+  <a href="https://t.me/[@a1100100010011011001100]" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
