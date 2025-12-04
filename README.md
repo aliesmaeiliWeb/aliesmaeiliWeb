@@ -20,6 +20,11 @@ I build websites and applications. I love coding and creating new projects.
 
 ---
 
+### 📫 Contact Me
+* **Email:** [aliesmaeiliofficialweb@gmail.com]
+
+---
+
 ## 📂 My Projects
 
 ### 🚀 Pendar Tarharia
@@ -33,5 +38,7 @@ React.js · TailwindCSS
 
 ---
 
-### 📫 Contact Me
-* **Email:** [aliesmaeiliofficialweb@gmail.com]
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[aliesmaeiliWeb]&theme=radical" alt="GitHub Streak" />
+</p>
