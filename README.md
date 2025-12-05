@@ -28,7 +28,7 @@ I build websites and applications. I love coding and creating new projects.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliesmaeiliWeb&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aliesmaeiliWeb&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
