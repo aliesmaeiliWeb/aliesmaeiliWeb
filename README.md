@@ -27,7 +27,7 @@ I build websites and applications. I love coding and creating new projects.
 ---
 
 ### 📊 GitHub Stats
-<p align="start">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[aliesmaeiliWeb]&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -44,7 +44,7 @@ React.js · TailwindCSS . Node.js . MySql . Express.js . Ts
 Name: Admin-Shop => MVP vershion . v1.0.7
 
 **Links:**  
-🔗 [Live Demo]([https://shop-admin-react.onrender.com])
+🔗 [Live Demo](https://shop-admin-react.onrender.com/)
 
 **Tech Stack:**  
 React.js · TailwindCSS
