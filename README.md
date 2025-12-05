@@ -41,7 +41,8 @@ I build websites and applications. I love coding and creating new projects.
 
 **Tech Stack:**  
 React.js · TailwindCSS . Node.js . MySql . Express.js . Ts
-Name: Admin-Shop => MVP vershion . v1.0.7
+***Name:***
+Admin-Shop => MVP vershion . v1.0.7
 
 **Links:**  
 🔗 [Live Demo](https://shop-admin-react.onrender.com/)
