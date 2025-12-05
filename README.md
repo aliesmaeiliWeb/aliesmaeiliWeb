@@ -17,10 +17,10 @@ I build websites and applications. I love coding and creating new projects.
 ### 📫 Contact Me
 * **Email:** [aliesmaeiliofficialweb@gmail.com]
 <p align="left">
-  <a href="https://t.me/[@a1100100010011011001100]" target="_blank">
+  <a href="https://t.me/@a1100100010011011001100" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://instagram.com/#" target="_blank">
+  <a href="https://instagram.com/@aliesmaeli_official" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
