@@ -32,7 +32,6 @@ I build websites and applications. I love coding and creating new projects.
 </p>
 
 ---
----
 
 ## 📂 My Projects
 
@@ -41,6 +40,7 @@ I build websites and applications. I love coding and creating new projects.
 
 **Tech Stack:**  
 React.js · TailwindCSS . Node.js . MySql . Express.js . Ts
+
 ***Name:***
 Admin-Shop => MVP vershion . v1.0.7
 
@@ -52,3 +52,6 @@ React.js · TailwindCSS
 
 **Links:**  
 🔗 [Live Demo](https://www.pendartarharia.com/)
+
+
+
