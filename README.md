@@ -39,7 +39,7 @@ I build websites and applications. I love coding and creating new projects.
 **A modern corporate website focused on clean UI, fast performance, and responsive design.**
 
 **Tech Stack:**  
-React.js · TailwindCSS . Node.js . MySql . Express.js . Ts
+React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
 
 ***Name:***
 Admin-Shop => MVP vershion . v1.0.7
