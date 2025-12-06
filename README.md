@@ -35,17 +35,17 @@ I build websites and applications. I love coding and creating new projects.
 
 ## 📂 My Projects
 
-### 🚀 Pendar Tarharia
-**A modern corporate website focused on clean UI, fast performance, and responsive design.**
+### 🚀 Shop-Admin
 
 **Tech Stack:**  
 React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
 
-***Name:***
-Admin-Shop => MVP vershion . v1.0.7
+# MVP vershion . v1.0.7
 
 **Links:**  
 🔗 [Live Demo](https://shop-admin-react.onrender.com/)
+
+### 🚀 Pendar Tarharia
 
 **Tech Stack:**  
 React.js · TailwindCSS
