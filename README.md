@@ -45,18 +45,6 @@ React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
 **Links:**  
 🔗 [Live Demo](https://shop-admin-react.onrender.com/)
 
-### 🚀 Pendar Tarharia
-
-**Tech Stack:**
-React.js · TailwindCSS
-
-***Role:***
-Main Front-End Developer for the Homepage and User Panel.
----
-Note: Worked on the frontend part as part of a team at One Techno.
-
-**Links:**  
-🔗 [Live Demo](https://www.pendartarharia.com/)
 
 
 
