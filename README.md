@@ -52,6 +52,7 @@ React.js · TailwindCSS
 
 ***Role:***
 Main Front-End Developer for the Homepage and User Panel.
+---
 Note: Worked on the frontend part as part of a team at One Techno.
 
 **Links:**  
