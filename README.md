@@ -51,7 +51,7 @@ React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
 React.js · TailwindCSS
 
 ***Role:***
-Main Front-End Developer for the Homepage and User Panel
+Main Front-End Developer for the Homepage and User Panel,
 Company: 1Techno
 
 **Links:**  
