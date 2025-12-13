@@ -48,6 +48,7 @@ React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
 ### 🚀 Pendar Tarharia
 
 **Tech Stack:**  
+***Participate in the project front***
 React.js · TailwindCSS
 
 **Links:**  
