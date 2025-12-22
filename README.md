@@ -31,19 +31,7 @@ I build websites and applications. I love coding and creating new projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliesmaeiliWeb&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-## 📂 My Projects
-
-### 🚀 Shop-Admin
-
-**Tech Stack:**  
-React.js · TailwindCSS . Node.js . MySql . Express.js . Ts . prisma
-
-* MVP version . v1.0.7
-
-**Links:**  
-🔗 [Live Demo](https://shop-admin-react.onrender.com/)
 
 
 
